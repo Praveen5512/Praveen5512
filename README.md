@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Task Manager Application**
 
 - Email : **praveen2015slv@gmail.com**
-- GFG   : <a href="https://www.geeksforgeeks.org/user/praveen22yv4/"> My profile</a>
 
 - ⚡ Fun fact **I hate writing but I love writing code.**
 
